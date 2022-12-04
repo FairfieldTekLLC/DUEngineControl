@@ -1,7 +1,7 @@
 # DUEngineControl
 Dual Universe Toggle Engines
 
-This Lua Code allows you to toggle engines on and off via script to conserve fuel.
+This Lua Code allows you to toggle engines on and off via script to conserve fuel.  Now I doubt you have the same setup as me, but this should get you a long way to making it work for you.  I found the hardest part was finding documentation on the lua commands themselves, not so much the ideas.  The code does work, I use it in one of my haulers to let it sip fuel when it runs empty and I can turn up the juice when I am hauling a ton of stuff.  Good Luck!
 
 To set this up:
 
@@ -37,7 +37,9 @@ When you are done it should look like this:
 20) Click on the screen and go to edit content
 21) Paste the [code](https://raw.githubusercontent.com/FairfieldTekLLC/DUEngineControl/main/Display.lua)
 22) Close the window
-23) 
+23) You should see a screen that looks like
+
+![image](https://github.com/FairfieldTekLLC/DUEngineControl/blob/main/display.jpg)
 
 
 
